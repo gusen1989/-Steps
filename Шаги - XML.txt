@@ -3,7 +3,7 @@ XML
 
 1)Создать внешний репозиторий c названием XML. - Зайти в раздел Repositories на Github; Нажать "NEW". Создать репозиторий "XML"
 2)Клонировать репозиторий XML на локальный компьютер. - git clone https://github.com/gusen1989/XML.git
-3)Внутри локального XML создать файл new.xml - touch flud.xml
+3)Внутри локального XML создать файл flud.xml - touch flud.xml
 4)Добавить файл под гит. - git add flud.xml
 5)Закоммитить файл. - git commit -m “test”
 6)Отправить файл на внешний GitHub репозиторий. - git push
