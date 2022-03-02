@@ -1,4 +1,5 @@
 # -Steps
+
  Файл со сценариями. JSON.
 
  
@@ -24,7 +25,7 @@
 10)Создать файл preferences.json. - preferences.json
 
 11)В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в 
-формате JSON. - vi preferences.json
+формате JSON. - vim preferences.json
 
 12)Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON. - touch skills.json vim skills.json
 
